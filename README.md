@@ -32,9 +32,9 @@ Le projet est disponible sur [GitHub](https://github.com/QuentFlo/Agenda).
 
 ![Page d'accueil](https://github.com/user-attachments/assets/63b55e59-056e-4749-b362-ce8a437ed8d3)
 ![Devoirs ajoutés](https://github.com/user-attachments/assets/7dc5909b-23cd-4f19-850e-24ace66abc80)  
-![Gestion des devoirs](https://github.com/user-attachments/assets/121def1e-1db6-4199-b31b-ffafff537595)  
-![Interface étudiant](https://github.com/user-attachments/assets/d071aee2-9e12-4060-95b7-497670c69f45)
-![Interface admin](https://github.com/user-attachments/assets/b104a8b5-d945-4666-a809-598a25e6b517)
+<img src="https://github.com/user-attachments/assets/121def1e-1db6-4199-b31b-ffafff537595" width="300" />
+<img src="https://github.com/user-attachments/assets/d071aee2-9e12-4060-95b7-497670c69f45" width="800" />
+<img src="https://github.com/user-attachments/assets/b104a8b5-d945-4666-a809-598a25e6b517" width="800" />
 
 ---
 
@@ -59,14 +59,14 @@ L'application permet de :
 
 Le projet est terminé, et l'application n'est plus disponible sur le Play Store, mais vous pouvez consulter les maquettes de la dernière version ci-dessous.
 
-![Maquette 1](https://github.com/user-attachments/assets/28bb2179-0da6-4e99-b862-a188d30d6eac)
-![Maquette 2](https://github.com/user-attachments/assets/a0f047b2-9b75-4b7c-822c-a0db02bdb820)  
-![Maquette 3](https://github.com/user-attachments/assets/8427cb6d-bb3b-49fa-aa71-1dd9eabd0a08)
-![Maquette 4](https://github.com/user-attachments/assets/762ec90b-d37a-4102-b785-cf7c0ae73774)  
-![Maquette 5](https://github.com/user-attachments/assets/cedd1c1f-abd8-4e0c-9ae1-14484ff6e513)
-![Maquette 6](https://github.com/user-attachments/assets/f90fd76a-9bb7-4780-86d1-a4c23204f663)  
-![Maquette 7](https://github.com/user-attachments/assets/6c9f3c81-8e18-48af-9d2f-36ac8bc2ed6d)
-![Maquette 8](https://github.com/user-attachments/assets/3d028618-3581-4ab8-bdc5-5002bc25ebb7)
+<img src="https://github.com/user-attachments/assets/28bb2179-0da6-4e99-b862-a188d30d6eac" width="300" />
+<img src="https://github.com/user-attachments/assets/a0f047b2-9b75-4b7c-822c-a0db02bdb820" width="300" />  
+<img src="https://github.com/user-attachments/assets/8427cb6d-bb3b-49fa-aa71-1dd9eabd0a08" width="300" />
+<img src="https://github.com/user-attachments/assets/762ec90b-d37a-4102-b785-cf7c0ae73774" width="300" />  
+<img src="https://github.com/user-attachments/assets/cedd1c1f-abd8-4e0c-9ae1-14484ff6e513" width="300" />
+<img src="https://github.com/user-attachments/assets/f90fd76a-9bb7-4780-86d1-a4c23204f663" width="300" />  
+<img src="https://github.com/user-attachments/assets/6c9f3c81-8e18-48af-9d2f-36ac8bc2ed6d" width="300" />
+<img src="https://github.com/user-attachments/assets/3d028618-3581-4ab8-bdc5-5002bc25ebb7" width="300" />
 
 **Plus d'infos** : [Comment sauver les coraux grâce à un algorithme de reconnaissance d'images](https://medium.com/@loubna.earally/comment-sauver-les-coraux-gr%C3%A2ce-%C3%A0-un-algorithme-de-reconnaissance-dimages-3f0dffccfe3c)
 
