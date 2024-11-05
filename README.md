@@ -1,8 +1,9 @@
 # Quentin FLORICOURT👋
 
 ## Mes projets :
-- Boutique de jeux vidéo en ligne :  
-![homepage](https://github.com/bdeguigne/Flutter-Shop/blob/main/screenshots/homepage.jpg)
+- Boutique de jeux vidéo en ligne :
+  ![image](https://github.com/user-attachments/assets/5685338d-df0b-495b-b7ea-dbecc370b0ce)
+
 ![Search](https://github.com/bdeguigne/Flutter-Shop/blob/main/screenshots/search.jpg)  
 ![product](https://github.com/bdeguigne/Flutter-Shop/blob/main/screenshots/product.jpg) 
 ![dialog](https://github.com/bdeguigne/Flutter-Shop/blob/main/screenshots/dialog.jpg)  
