@@ -40,14 +40,14 @@ Le projet est disponible sur [GitHub](https://github.com/QuentFlo/Agenda).
 
 ### 4. Tasteify : Statistiques d'écoutes Spotify
 
-Tasteify est un site web permettant de visualiser ses statistiques d'écoutes sur Spotify. Retrouvez le projet sur [GitHub](https://github.com/QuentFlo/Tasteify).
+Tasteify est un site web permettant de visualiser ses statistiques d'écoutes sur Spotify.
 
 ![Statistiques 1](https://github.com/user-attachments/assets/c0e6647c-a36f-4b48-9e9a-8cecc04cd7c7)
 ![Statistiques 2](https://github.com/user-attachments/assets/b1e02223-504a-4424-9914-c671857665ed)
 
 ---
 
-### 5. Wall-O : Application de reconnaissance de poissons du lagon (Projet de fin d'études)
+### 5. Wall-O : Application de reconnaissance de poissons du lagon de La Réunion (Projet de fin d'études)
 
 **Wall-O** est une application développée par 6 étudiants d'Epitech Réunion pour aider à la reconnaissance des poissons du lagon de La Réunion. Ce projet a été mené de la conception du cahier des charges à la publication sur le Google Play Store.
 
