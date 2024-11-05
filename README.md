@@ -74,4 +74,5 @@ Le projet est terminé, et l'application n'est plus disponible sur le Play Store
 
 ### Conclusion
 
-Ces projets illustrent mon expertise en développement mobile, web et en gestion de projet. Si vous souhaitez en savoir plus ou voir d'autres réalisations, n'hésitez pas à me contacter via GitHub ou LinkedIn.
+Ces projets illustrent mon expertise en développement mobile, web et en gestion de projet. Si vous souhaitez en savoir plus n'hésitez pas à me contacter par e-mail : [quentin.floricourt1@gmail.com](mailto:quentin.floricourt1@gmail.com).
+
