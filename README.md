@@ -1,5 +1,3 @@
-# Quentin FLORICOURT👋
-
 ## Mes projets :
 - Boutique de jeux vidéo en ligne :
     
